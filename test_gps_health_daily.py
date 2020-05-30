@@ -19,3 +19,9 @@ def justlykthat():
 test_add_sub()
 justlykthat()
 
+
+def test_multiply(a,b):
+    multiply_fun(x,y)
+    
+test_multiply(5,2)
+    
