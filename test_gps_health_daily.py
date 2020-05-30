@@ -21,7 +21,7 @@ justlykthat()
 
 
 def test_multiply(a,b):
-    multiply_fun(a,b)
+    gps_health_daily.multiply_fun(a,b)
     
 test_multiply(5,2)
     
