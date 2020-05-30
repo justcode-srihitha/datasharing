@@ -20,3 +20,6 @@ def add_sub_actual()->Addition_subtraction:
 def multiply_fun(x,y):
     c=x*y
     print(c)
+
+def string_add(str1,str2):
+    return " ".join([str1,str2])
