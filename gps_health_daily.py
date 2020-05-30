@@ -17,4 +17,6 @@ def add_sub_actual()->Addition_subtraction:
     return (a,s)
         
     
-
+def multiply_test(x,y):
+    c=x*y
+    print(c)
